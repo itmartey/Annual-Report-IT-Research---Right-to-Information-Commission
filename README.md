@@ -1,0 +1,2 @@
+# Annual-Report-IT-Research---Right-to-Information-Commission
+A strategic analysis of institutional transparency. This repository features data-driven insights from the 2024 RTI Annual Report of the Right to Information Commission and research on the critical role of IT infrastructure in scaling public access to information. I have spent four years as the data analyst of the Right to Information Commission.
