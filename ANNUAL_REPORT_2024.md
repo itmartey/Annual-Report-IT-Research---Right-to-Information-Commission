@@ -25,7 +25,7 @@ I have selected the 2024 report to display results from and describe what the do
 | **Primary Tools** | Microsoft Excel, Google Suite |
 | **Visualization** | Power BI, Tableau Desktop |
 | **Analysis Scope** | Yearly Compliance Trends & IT Infrastructure Impact |
-| **Data Governance** | Anonymized for Public Disclosure |
+| **Data Governance** | Anonymised for Public Disclosure |
 
 ## Applications and Requests Received by Public Institutions
 
@@ -74,5 +74,6 @@ The trend in compliance has likewise been encouraging. As depicted by the teal l
 
 
 ----
+
 
 Mark 5:36
